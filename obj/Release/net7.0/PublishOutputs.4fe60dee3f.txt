@@ -1,0 +1,12 @@
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Rest_Api.exe
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\appsettings.Development.json
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\appsettings.json
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Rest_Api.dll
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Rest_Api.deps.json
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Rest_Api.runtimeconfig.json
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Rest_Api.pdb
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\0106_0036\DotNet\DotNet_Core\projects\Rest_Api\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
